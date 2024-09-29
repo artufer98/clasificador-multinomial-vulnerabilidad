@@ -1,4 +1,4 @@
-#!/home/arturo/Documents/projects/fpuna/nlp/naive-classifier/bin/python
+#!/home/arturo/Documents/projects/fpuna/nlp/naive-classifier/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
